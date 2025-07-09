@@ -30,5 +30,3 @@ This EDA project demonstrates the ability to:
 - Work with real-world, messy datasets
 - Extract insights from raw data
 - Apply visual analytics to support business decisions
-
-- 
